@@ -1,7 +1,7 @@
 
 ---
 layout: default
-permalink: /
+permalink: /index.html
 ---
 
 # IS 445 Homework 5.1
